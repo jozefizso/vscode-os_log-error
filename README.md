@@ -1,4 +1,4 @@
-# VS Code IntelliSense Sense Bug with `os_log`
+# VS Code IntelliSense Bug with `os_log`
 
 Visual Studio Code IntelliSense incorrectly reports missing `;` for the `os_log()` functions:
 
